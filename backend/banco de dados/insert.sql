@@ -28,7 +28,7 @@ INSERT INTO tb_tipo_produto ( ds_tipo_produto )
                      
 INSERT INTO tb_tipo_produto ( ds_tipo_produto ) 
 					 VALUES ( 'salgado');
-                     
+                  -- aaaaaaaaaa   
 
 INSERT INTO tb_tipo_produto ( ds_tipo_produto ) 
 					 VALUES ( 'vegano');       
